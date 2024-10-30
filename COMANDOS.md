@@ -26,3 +26,11 @@
 - Mostrar arquivos: `ls`
 - Voltar para a home: `cd`
 - Remover arquivos: `rm teste.txt teste2.txt`
+
+---
+
+## Conclusão
+
+Nesta lista de comandos básicos de Linux, apresentamos ferramentas essenciais para a manipulação de arquivos e navegação no sistema.
+
+- [Script de Backup](BACKUP.md): Passo a passo para criar um script simples de backup de arquivos no Linux.
