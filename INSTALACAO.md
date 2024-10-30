@@ -43,4 +43,8 @@ Após a instalação, faça login usando as credenciais que você configurou.
 
 ---
 
+## Conclusão
+
 Essas etapas irão ajudá-lo a configurar um ambiente de servidor Ubuntu no Oracle VirtualBox. Se você tiver dúvidas ou precisar de mais assistência, sinta-se à vontade para perguntar!
+
+- [Comandos Básicos](COMANDOS.md): Uma lista de comandos que aprendi e suas funções, com exemplos práticos.
