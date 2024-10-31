@@ -11,6 +11,7 @@ O objetivo deste projeto é compartilhar meu conhecimento adquirido ao trabalhar
 - [Instalação do Ambiente](INSTALACAO.md): Como configurar o Oracle VirtualBox e instalar o Linux Server.
 - [Comandos Básicos](COMANDOS.md): Uma lista de comandos que aprendi e suas funções, com exemplos práticos.
 - [Script de Backup](BACKUP.md): Passo a passo para criar um script simples de backup de arquivos no Linux.
+- [Script de Compactador](COMPACTADOR.md): Passo a passo para criar um script simples de compactador de arquivos no Linux.
 
 ## Como Contribuir
 
