@@ -48,3 +48,4 @@ Neste guia, você aprenderá a criar um script simples para fazer backups de arq
 ## Conclusão
 
 Agora você tem um script simples que faz backup dos arquivos de forma automatizada!
+- [Script de Compactador](COMPACTADOR.md): Passo a passo para criar um script simples de compactador de arquivos no Linux.
